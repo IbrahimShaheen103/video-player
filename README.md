@@ -3,10 +3,10 @@
 ## Steps of Starting Project:-
 
 In the project directory, you can run:
-Step 1:-
+Step 1:-\
 ### `npm i --s`
 To install the packeges of App
-Step 1:-
+Step 2:-\
 ### `npm start`
 
 Runs the app in the development mode.\
