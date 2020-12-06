@@ -1,0 +1,20 @@
+.App{
+  padding: 10px;
+  text-align: center;
+  height: 100%;
+}
+.video-picker{
+  margin-bottom: 5px;
+}
+.video{
+  margin-left: 25%;
+  align-items: center;
+  width: 644px;
+  height: 370px; 
+}
+.title-txt{
+  margin: 15px;
+}
+.btn{
+  margin: 2.5px;
+}
